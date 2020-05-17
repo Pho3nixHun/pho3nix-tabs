@@ -3,3 +3,5 @@ test/integration/screenshots-current/
 _site/
 .DS_Store
 src/**/*.js
+src/**/*.map
+src/**/*.css
